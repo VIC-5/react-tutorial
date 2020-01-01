@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I used this as reference. https://ja.reactjs.org/tutorial/tutorial.html
 
 ## Available Scripts
 
